@@ -13,4 +13,16 @@ nome = "Joao"
 idade = 21
 #Note que e necessario adicionar " " envolta de valores de texto porem para numeros basta atribuir.
 #Para nao falantes de ingles e muito importante nao usar caracterres que nao existem no ingles para nome de variaveis ou podem ocorrer erros ao tentar executar o codigo.
-#Um exemplo seria preço, que usa o ç.
+#Um exemplo seria a variavel preço, que usa o ç, e assim deve ser evitada.
+
+print(name)
+print("John")
+#The variable can be used in place of the desired value, this brings two main benefits.
+#A code may be made in wich the value are defined only when the code is run
+#And a code may be made in wich the value of variables, and thus the behaviour of the program, change as it is run
+
+print(nome)
+print("Joao")
+#Variaveis podem ser usadas no lugar do valor que elas contem, isso traz duas principais vantagens,
+#Primeiramente um codigo pode ser criado onde todas as operaçoes sao programadas porem os valores so serao atribuidos durante a execuçao
+#Alem disso um codigo pode ser criado onde ao longo da execuçao seu comportamento se altera
