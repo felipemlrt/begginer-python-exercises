@@ -6,14 +6,14 @@
 #------------------------------------------------------------------------
 #egnlish:
 name = "Jonh"
-users = ["Jonh", "Joseph"]
+users = ["Jonh", "Mark", "Anne"]
 
 if name in users:
  print ("Yes, even this works")
 
 #portugues:
 nome = "joao"
-usuarios = ["joao", "jose"]
+usuarios = ["joao", "Marcos", "Ana"]
 
 if nome in usuarios:
  print ("Sim, ate isso funciona")
