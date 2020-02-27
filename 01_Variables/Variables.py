@@ -7,7 +7,7 @@
 #english:
 name = "John"
 age = 21
-#Note that there is a need to put " " around text values, but for values one can just attribute them.
+#Note that there is a need to put " " or ' ' around text values, but for values one can just attribute them.
 #For non english speakers it is very important to not use special characters, that are not available in english, in variable names otherwise errors may occur.
 #An example of wich would be preço wich uses the ç special character.
 
@@ -20,7 +20,7 @@ print("John")
 #portugues:
 nome = "Joao"
 idade = 21
-#Note que e necessario adicionar " " envolta de valores de texto porem para numeros basta atribuir.
+#Note que e necessario adicionar " " ou ' ' envolta de valores de texto porem para numeros basta atribuir.
 #Para nao falantes de ingles e muito importante nao usar caracterres que nao existem no ingles para nome de variaveis ou podem ocorrer erros ao tentar executar o codigo.
 #Um exemplo seria a variavel preço, que usa o ç, e assim deve ser evitada.
 
