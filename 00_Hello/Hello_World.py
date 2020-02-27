@@ -4,3 +4,10 @@
 
 print("Hello World!")
 print("Oi Mundo!")
+#The print() function is used to present informations to the user through an output, the standart output being the console terminal.
+#A função print() apresenta na saída padrão, normalmente o terminal do console, o texto informado.
+
+print("Error: Could not read data!")
+print("Erro: Não foi possível abrir o arquivo!)
+#print() can be used to generate outputs that help both the user and programmer understand qhat the code is doing and why.
+#print() pode ser usada para gerar saídas que auxiliem ao usuário e ao programador entender o que está acontecendo e o motivo.
