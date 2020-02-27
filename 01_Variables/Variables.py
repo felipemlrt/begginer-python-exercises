@@ -42,3 +42,12 @@ nome = input("Qual seu nome?")
 idade = input("Qual sua idade?")
 print("Oi ", nome,"!")
 #variaveis permitem a programadores criarem codigos com valores desconhecidos que so serao definidos na execucao.
+
+#----------------------------------------------------------------------------------------------------
+#english:
+banana, apple, avocado = "yellow", "red", "green"
+#its possible to assign several variables in a single line
+
+#portugues:
+banana, maca, abacate = "amarela", "vermelha", "verde"
+#é possível atribuir diversas variaveis em uma só linha
