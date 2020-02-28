@@ -17,5 +17,5 @@ def funcao(): #declaração da função, nunca esqueça () e :
  print("Funciona!")
 
 funcao()#chamada da função
-funcao()#note que é possível re usar o mesmo código facilmente, basta chamar de novo a função
+funcao()#note que é possível re usar o mesmo código facilmente, basta chamar a função novamente
 #Exemplo minimo de como criar e chamar uma função
