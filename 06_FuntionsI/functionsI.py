@@ -19,3 +19,16 @@ def funcao(): #declaração da função, nunca esqueça () e :
 funcao()#chamada da função
 funcao()#note que é possível re usar o mesmo código facilmente, basta chamar a função novamente
 #Exemplo minimo de como criar e chamar uma função
+
+#----------------------------------------------------------------------------------------------------
+#english:
+def sum( X, Y):#use the () to specify arguments to the function, these are values that need to be provided once the function is called
+ print(X + Y)
+
+sum(5, 5)#note that the arguments need to be passed otherwise the function will raise an error
+
+#portugues:
+def soma( X, Y):#use () para determinar argumentos necessarios para a função
+ print(X + Y)
+
+sum(5, 5)#note a necessidade de passar os argumentos
