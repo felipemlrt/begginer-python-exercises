@@ -48,7 +48,7 @@ else:
 x = 10
 
 #english:
-#there is also a special way to make a if else in a single line
+#there is also a special way to use a if else in a single line
 print ("yay!") if x == 10 else print("nay")
 
 #portugues:
