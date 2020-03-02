@@ -45,12 +45,3 @@ else:
  print ("Nao deu certo")
 
 #----------------------------------------------------------------
-x = 10
-
-#english:
-#there is also a special way to use a if else in a single line
-print ("yay!") if x == 10 else print("nay")
-
-#portugues:
-#existe uma forma especial que pode ser usada para criar um if else em uma unica linha
-print ("Tudo certo!") if x == 10 else print("Não deu certo")
