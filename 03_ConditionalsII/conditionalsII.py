@@ -41,11 +41,22 @@ generator = "off"
 if power is "plugged" or generator is "on":
  print ("We have power!")
 
-#portugues
+#portugues:
 energia = "conectada"
 gerador = "desligado"
 
 if energia is "conectada" or gerador is "ligado":
  print ("Temos energia!")
+
+#------------------------------------------------------------------------
+#english:
+a, b = 1, 2
+if b > a:
+ pass #the pass statement is used in development to make a block not raise an error due to being empty
+ 
+#portugues:
+a, b = 1, 2
+if b > a:
+ pass #pass é usado durante o desenvolvimento para fazer com que um bloco vazio não gere erro
 
 #------------------------------------------------------------------------
