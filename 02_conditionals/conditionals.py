@@ -1,5 +1,13 @@
 #!/usr/bin/env python3
 
+#Equals / Igual: a == b
+#Not Equals / Diferente: a != b
+#Less than / Menor que: a < b
+#Less than or equal to / Menor ou igual que: a <= b
+#Greater than / Maior que: a > b
+#Greater than or equal to / Maior ou igual que: a >= b
+
+#----------------------------------------------------------------
 x = 0
 
 #First a simple if
@@ -44,4 +52,15 @@ elif x >=0 and x < 10:
 else:
  print ("Nao deu certo")
 
+#----------------------------------------------------------------
+a, b = 5, 10
+
+#english:
+#quick one line if statement, usefull to keep the code small and easy to read
+if a < b: print("ERROR!")
+
+#portugues:
+#if rapido de uma linha, mantem o codigo curto e facil de ler
+if a < b: print("ERRO!")
+ 
 #----------------------------------------------------------------
