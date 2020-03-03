@@ -32,3 +32,22 @@ def soma( X, Y):#use () para determinar argumentos necessarios para a função
  print(X + Y)
 
 sum(5, 5)#note a necessidade de passar os argumentos
+
+#----------------------------------------------------------------------------------------------------
+#english:
+#example of the use of return to create a function that performs a task apart from the main code
+def ask_name():
+ name = input("What is your name?")
+ return name
+
+print("Welcome " + ask_name())
+
+#portugues:
+#exemplo do uso do return para criar uma função que realiza uma operação a parte e retorna o resultado
+def ask_name():
+ nome = input("Qual seu nome?")
+ return nome
+
+print("Welcome " + ask_nome())
+
+#----------------------------------------------------------------------------------------------------
