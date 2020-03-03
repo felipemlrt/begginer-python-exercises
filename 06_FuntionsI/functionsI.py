@@ -51,3 +51,10 @@ def ask_name():
 print("Welcome " + ask_nome())
 
 #----------------------------------------------------------------------------------------------------
+#lambda functions are simple single line functions
+#funções lambda são simples, definidas em uma unica linha
+x = lambda a, b, c: (a * b)/c
+
+print(x(5,10,5))
+
+#----------------------------------------------------------------------------------------------------
