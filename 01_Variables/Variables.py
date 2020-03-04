@@ -51,3 +51,11 @@ banana, apple, avocado = "yellow", "red", "green"
 #portugues:
 banana, maca, abacate = "amarela", "vermelha", "verde"
 #é possível atribuir diversas variaveis em uma só linha
+
+#----------------------------------------------------------------------------------------------------
+#floating point values are used just like integer values
+#valor de ponto flutuante podem ser usados da mesma forma que inteiros
+a = 1.25
+print (a)
+
+#----------------------------------------------------------------------------------------------------
