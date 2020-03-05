@@ -44,11 +44,11 @@ print("Welcome " + ask_name())
 
 #portugues:
 #exemplo do uso do return para criar uma função que realiza uma operação a parte e retorna o resultado
-def ask_name():
+def pergunta_nome():
  nome = input("Qual seu nome?")
  return nome
 
-print("Welcome " + ask_nome())
+print("Bem vindo " + pergunta_nome())
 
 #----------------------------------------------------------------------------------------------------
 #lambda functions are simple single line functions
