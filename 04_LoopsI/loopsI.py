@@ -39,3 +39,20 @@ for i in range(0, 10):
 #o comando continue e usado para interromper apenas a iteracao atual do loop, seguindo na proxima
 
 #------------------------------------------------------------------------
+#english:
+#a nested loop is a loop inside another
+students = [ "Ann", "Beatrice", "Carl"]
+
+for person in students:
+ for i in range(0, 10):
+  print( person, " counts ", i)
+
+#portuges:
+#estruturas de repetião aninhadas, sao situações onde uma estrutra e colocada dentro de outra
+estudantes = [ "Ana", "Beatriz", "Carlos"]
+
+for perssoa in estudantes:
+ for i in range(0, 10):
+  print( pessoa, " conta ", i)
+  
+#------------------------------------------------------------------------
