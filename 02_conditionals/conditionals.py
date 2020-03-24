@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 
 #Equals / Igual: a == b
+# 5 == 3 returns / retorna False, 5 == 5 returns / retorna True
 #Not Equals / Diferente: a != b
+# 5 != 3 returns / retorna True, 5 != 5 returns / retorna False
 #Less than / Menor que: a < b
 #Less than or equal to / Menor ou igual que: a <= b
 #Greater than / Maior que: a > b
