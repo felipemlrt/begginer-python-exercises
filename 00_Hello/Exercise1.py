@@ -7,3 +7,7 @@
 #2)
 #Create a python code that will print your name:
 #Crie um código que apresente o seu nome:
+
+#3)
+#Create a python code that will print three phrases in sequence:
+#Crie um cdigo em python que apresente três frases em sequência:
