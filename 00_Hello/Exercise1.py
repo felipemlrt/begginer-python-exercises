@@ -11,3 +11,7 @@
 #3)
 #Create a python code that will print three phrases in sequence:
 #Crie um cdigo em python que apresente três frases em sequência:
+
+#4)
+#Create a code that print a phrase in parts using ","
+#Crie um código em python que apresente uma frase dividida em partes usando ","
