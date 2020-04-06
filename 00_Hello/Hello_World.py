@@ -11,3 +11,13 @@ print("Error: Could not read data!")
 print("Erro: Não foi possível abrir o arquivo!)
 #print() can be used to generate outputs that help both the user and programmer understand qhat the code is doing and why.
 #print() pode ser usada para gerar saídas que auxiliem ao usuário e ao programador entender o que está acontecendo e o motivo.
+
+print(" First: ", " John.", " Second: ", " Mike.")
+print(" Primeiro: ", " Marcos.", " Segundo: ", " Jonas.")
+#The whole phrase can be bronken in parts to print
+#Uma frase pode ser dividas em partes para ser apresentada
+
+print(" First: " + " John." + " Second: " + " Mike.")
+print(" Primeiro: " + " Marcos." + " Segundo: " + " Jonas.")
+#Both ways to print work, be it with "," or with "+"
+#Ambas as formas, com "," ou "+", funcionam
