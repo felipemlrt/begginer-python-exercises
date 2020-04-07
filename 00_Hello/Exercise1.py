@@ -15,3 +15,7 @@
 #4)
 #Create a code that print a phrase in parts using ","
 #Crie um código em python que apresente uma frase dividida em partes usando ","
+
+#5)
+#Create a code that prints the result of 3 * 1,25
+#Crie um código que apresente o restulado de 3 * 1,25
