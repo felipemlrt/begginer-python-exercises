@@ -7,3 +7,7 @@
 #2)
 #Create a variable that receives the number 1,25.
 #Crie uma váriavel que receba o número 1,25.
+
+#3)
+#Create two variables that will receive 5 and 8, then a third that receives the sum of the former.
+#Crie duas variáveis que recebem os valores 5 e 8, e uma terceira que recebe a soma destes.
