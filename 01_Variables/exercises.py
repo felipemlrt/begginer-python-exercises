@@ -11,3 +11,7 @@
 #3)
 #Create two variables that will receive 5 and 8, then a third that receives the sum of the former.
 #Crie duas variáveis que recebem os valores 5 e 8, e uma terceira que recebe a soma destes.
+
+#4)
+#Create a code that will receive a name and surname, then prints the whole name.
+#Crie um código que receba um nome e sobrenome, a seguir apresente o nome completo.
