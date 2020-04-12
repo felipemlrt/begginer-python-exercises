@@ -15,3 +15,7 @@
 #4)
 #Create a code that will receive a name and surname, then prints the whole name.
 #Crie um código que receba um nome e sobrenome, a seguir apresente o nome completo.
+
+#5)
+#Create a code that print the multiplication of two variables.
+#Crie um cdigo que apresente o resultado da multiplicação de duas variáveis.
