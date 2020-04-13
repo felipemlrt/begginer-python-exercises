@@ -65,9 +65,11 @@ x = 10
 #english:
 #there is also a special way to use a if else in a single line
 print ("yay!") if x == 10 else print("nay")
+#Note that both the if and else are required, "print ("yay!") if x == 10" would raise a sintax error
 
 #portugues:
 #existe uma forma especial que pode ser usada para criar um if else em uma unica linha
 print ("Tudo certo!") if x == 10 else print("Não deu certo")
+#Note que são necessários ambos o if e o else, "print ("Tudo certo!") if x == 10" resulta em um erro de sintaxe
 
 #------------------------------------------------------------------------
