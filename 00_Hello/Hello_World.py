@@ -22,6 +22,10 @@ print(" Primeiro: " + " Marcos." + " Segundo: " + " Jonas.")
 #Both ways to print work, be it with "," or with "+"
 #Ambas as formas, com "," ou "+", funcionam
 
+print( 1946 )
+#To print numbers it is not necessary to add " "
+#Para apresentar numeros no  necessrio o uso de " "
+      
 print(5 * 10)
-#It is possible to print the result of equiation directly as in the example above
-#É possível apresentar diretamente o resultado de equações, como no exemplo
+#It is possible to print the result of simple equations directly, as in the example above
+#É possível apresentar diretamente o resultado de equações simples, como no exemplo acima
