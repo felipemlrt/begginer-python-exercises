@@ -7,3 +7,7 @@
 #2)
 #Create a code that will ask the use for a number and print a message saying if its a odd or even.
 #Crie um codigo que receba um numero do usuário e diga se o numéro é par ou ímpar.
+
+#3)
+#Create a code that will receive a number from the user and say if its a prime number or not.
+#Crie um código que receba um número do usuário e diga se o numero é primo ou não.
