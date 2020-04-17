@@ -11,3 +11,7 @@
 #3)
 #Create a code that will receive a number from the user and say if its a prime number or not.
 #Crie um código que receba um número do usuário e diga se o numero é primo ou não.
+
+#4)
+#Create a code that will print the wirten number that was passed, numbers 0 to 9.
+#Crie um código que apresente o número digitado pelo usuário em forma escrita, de 0 a 9.
