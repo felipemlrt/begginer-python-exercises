@@ -15,3 +15,7 @@
 #4)
 #Create a code that will print the wirten number that was passed, numbers 0 to 9.
 #Crie um código que apresente o número digitado pelo usuário em forma escrita, de 0 a 9.
+
+#5)
+#Create a code that receives from the user a number from 1 to 7, and answers with the correlated week day.
+#Crie um código que receba do usuário um número de 1 a 7, e responda com o dia da semana correspendente.
