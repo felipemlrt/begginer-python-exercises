@@ -7,3 +7,6 @@
 #2)
 #Create a code that will receive from the user the status 0(off), 1(on), of alarms A and B, and prints "All OK!" if both are off.
 #Crie um código que receba do usuário o status 0(desligado), 1(ligado), de dois alarmes A e B, e apresente "Tudo OK!" se ambos estiverem desligados.
+
+#3)
+#Create a code that receives the status 0(offline), 1(online), of powersource and generator, and prints "All OK!" if at least one of them is online.
