@@ -10,3 +10,4 @@
 
 #3)
 #Create a code that receives the status 0(offline), 1(online), of powersource and generator, and prints "All OK!" if at least one of them is online.
+#Crie um código que receba o status 0(desconectado), 1(conectado), da rede elétrica e de um gerador, apresente "Tudo OK!" se pelo menos um deles estiver conectado.
