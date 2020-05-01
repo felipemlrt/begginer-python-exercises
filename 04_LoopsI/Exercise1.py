@@ -6,4 +6,5 @@
 #Crie um código que use uma estrutura de repetição para apresentar os números de 0 a 9.
 
 #2)
-#Create a code that receives a variable number of pdrocuct them prints the whole list.
+#Create a code that receives a variable number of pdrocuct them prints the whole list, one by one.
+#Crie um código que receba uma lista de produtos e em seguida apresente toda a lista, um por um.
