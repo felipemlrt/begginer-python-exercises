@@ -8,3 +8,6 @@
 #2)
 #Create a code that receives a variable number of pdrocuct them prints the whole list, one by one.
 #Crie um código que receba uma lista de produtos e em seguida apresente toda a lista, um por um.
+
+#3)
+#Create a code that receives a çost of names and prints "Hi, John!" if the name John is on the list.
