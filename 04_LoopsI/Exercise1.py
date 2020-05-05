@@ -11,3 +11,4 @@
 
 #3)
 #Create a code that receives a çost of names and prints "Hi, John!" if the name John is on the list.
+#Crie um código que recebe uma lista de nomes e apresente "Oi, João" se o nome João estiver na lista.
