@@ -16,3 +16,6 @@
 #4)
 #Create a code that gets 5 numbers from the user and prints the sum of these.
 #Crie um código que peça ao usuário 5 valores seguidos, some e apresente o resultado.
+
+#5)
+#Create a code that gets the status (on/off) of 5 alarms and prints "Error!" if any of them is on.
