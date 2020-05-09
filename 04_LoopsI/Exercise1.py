@@ -19,3 +19,4 @@
 
 #5)
 #Create a code that gets the status (on/off) of 5 alarms and prints "Error!" if any of them is on.
+#Crie um código que receba o status de 5 alarmes (ligado/desligado) e apresente "Erro!" se qualquer um deles estiver ligado.
