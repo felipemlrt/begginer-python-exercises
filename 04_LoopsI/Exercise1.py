@@ -11,12 +11,16 @@
 
 #3)
 #Create a code that receives a çost of names and prints "Hi, John!" if the name John is on the list.
-#Crie um código que recebe uma lista de nomes e apresente "Oi, João" se o nome João estiver na lista.
+#Crie um código que recebe uma lista de nomes e apresente "Oi, João!" se o nome João estiver na lista.
 
 #4)
-#Create a code that gets 5 numbers from the user and prints the sum of these.
+#Create a code that gets 5 numbers from the user, and prints the sum of these.
 #Crie um código que peça ao usuário 5 valores seguidos, some e apresente o resultado.
 
 #5)
 #Create a code that gets the status (on/off) of 5 alarms and prints "Error!" if any of them is on.
 #Crie um código que receba o status de 5 alarmes (ligado/desligado) e apresente "Erro!" se qualquer um deles estiver ligado.
+
+#6)
+#
+#
