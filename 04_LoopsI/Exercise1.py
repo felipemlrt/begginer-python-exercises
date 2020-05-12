@@ -22,5 +22,5 @@
 #Crie um código que receba o status de 5 alarmes (ligado/desligado) e apresente "Erro!" se qualquer um deles estiver ligado.
 
 #6)
-#
-#
+#Create a code in a infinite loop that gets operations and prints their results.
+#Crie um código com uma estrutura de repetição infinita que receba operações matemáticas e apresente o resultado delas.
