@@ -35,6 +35,21 @@ sum(5, 5)#note a necessidade de passar os argumentos
 
 #----------------------------------------------------------------------------------------------------
 #english:
+def sum( X, Y=1):#a standart value may be given, this way if the user does not provide a value this is used
+ print(X + Y)
+
+sum(5)#note that now Y does not require a value to be given
+sum(8, 3)#a value may still be given to Y
+
+#portugues:
+def soma( X, Y=1):#um valor padrão pode ser atribuido, assim o argumento se torna opcional
+ print(X + Y)
+
+sum(5)#note que não há necessidade de passar Y
+sum(8, 3)#porém caso um valor diferente do padrão seja desejado este ainda pode ser passado
+
+#----------------------------------------------------------------------------------------------------
+#english:
 #example of the use of return to create a function that performs a task apart from the main code
 def ask_name():
  name = input("What is your name?")
