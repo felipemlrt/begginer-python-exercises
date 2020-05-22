@@ -26,4 +26,4 @@
 
 #7)
 #Create a code that prints a phrase in parts using "+".
-#
+#Crie um codigo que apresente uma frase em partes separada por "+".
