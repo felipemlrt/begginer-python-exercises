@@ -19,3 +19,7 @@
 #5)
 #Create a code that print the multiplication of two variables.
 #Crie um cdigo que apresente o resultado da multiplicação de duas variáveis.
+
+#6)
+#Create a code that ask the user for the name of an object and stores it in a list of objects.
+#
