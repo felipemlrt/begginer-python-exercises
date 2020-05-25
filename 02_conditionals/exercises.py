@@ -19,3 +19,7 @@
 #5)
 #Create a code that receives from the user a number from 1 to 7, and answers with the correlated week day.
 #Crie um código que receba do usuário um número de 1 a 7, e responda com o dia da semana correspendente.
+
+#6)
+#Create a code that checks if "Alarm_1" is "off" then checks if "POWER" is "on". Answering with "Danger! Can not turn on." or "Power is off." based on what check failed.
+#
