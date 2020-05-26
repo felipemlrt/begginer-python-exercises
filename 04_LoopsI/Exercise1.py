@@ -24,3 +24,7 @@
 #6)
 #Create a code in a infinite loop that gets operations and prints their results.
 #Crie um código com uma estrutura de repetição infinita que receba operações matemáticas e apresente o resultado delas.
+
+#7)
+#Create a code that gets a number for te user and prints the Fibonacci sequence up to that number.
+#
