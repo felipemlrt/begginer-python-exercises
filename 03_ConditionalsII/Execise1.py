@@ -15,3 +15,7 @@
 #4)
 #Create a single line if.
 #Crie um if de uma linha.
+
+#5)
+#Create a single line if that prints "Alarm!" if the variable alarm1 is "on".
+#
