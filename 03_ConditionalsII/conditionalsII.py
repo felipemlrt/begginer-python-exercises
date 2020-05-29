@@ -41,12 +41,25 @@ generator = "off"
 if power is "plugged" or generator is "on":
  print ("We have power!")
 
-#portugues:
+ #portugues:
 energia = "conectada"
 gerador = "desligado"
 
 if energia is "conectada" or gerador is "ligado":
  print ("Temos energia!")
+
+#------------------------------------------------------------------------
+#english:
+x = 1
+
+if not x == 1: #"not" can be used to invert a true result into false and a false into true
+ print ("This only prints if x is not 1!") #be careful, the "not" does not inverts the operation, it inverts the result.
+
+#portugues:
+x = 1
+
+if not x == 1:#o "not" torna o verdadeiro falso e o falso verdadeiro
+ print ("Esta mensagem só é apresentada se x não for 1!") #cuidado, o "not" não inverte a operação mas sim o resultado desta.
 
 #------------------------------------------------------------------------
 #english:
