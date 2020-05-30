@@ -18,4 +18,4 @@
 
 #5)
 #Create a single line if that prints "Alarm!" if the variable alarm1 is "on".
-#
+#Crie um if de uma única linha que apresente "Alarme!" se a variavel alarme1 estiver "ligado".
