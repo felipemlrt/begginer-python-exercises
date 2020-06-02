@@ -63,6 +63,21 @@ if not x == 1:#o "not" torna o verdadeiro falso e o falso verdadeiro
 
 #------------------------------------------------------------------------
 #english:
+a, b, c = 1, 2, 3
+if b > a:
+ print( "a > b")
+ if b < c: #conditionals can be nested witthout a problem, just remember that the second one will not be evaluated if the first is not true
+  print( "b < c")
+
+#portugues:
+a, b, c = 1, 2, 3
+if b > a:
+ print( "a > b")
+ if b < c: #condicionais podem ser colocados um dentro do outro sem problemas, lembre porém que o segundo só será avaliado se o primeiro for ativado
+  print( "b < c")
+
+#------------------------------------------------------------------------
+#english:
 a, b = 1, 2
 if b > a:
  pass #the pass statement is used in development to make a block not raise an error due to being empty
