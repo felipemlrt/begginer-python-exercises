@@ -21,5 +21,5 @@
 #Crie um if de uma única linha que apresente "Alarme!" se a variavel alarme1 estiver "ligado".
 
 #6)
-#
+#Create a single line if that checks if a given value X is not a string(text) and prints "X must be a number!" if it is.
 #
