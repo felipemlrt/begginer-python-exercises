@@ -22,4 +22,4 @@
 
 #6)
 #Create a single line if that checks if a given value X is not a string(text) and prints "X must be a number!" if it is.
-#
+#Crie um if de linha única que verifique se um valor X é texto ou número e apresente "X deve ser número!" caso seja texto.
