@@ -27,4 +27,4 @@
 
 #7)
 #Create a code that gets a number for te user and prints the Fibonacci sequence up to that number.
-#
+#Crie um código que recebe um número do usuário e apresenta a sequência de Fibonacci até aquela casa.
