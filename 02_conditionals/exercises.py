@@ -23,3 +23,7 @@
 #6)
 #Create a code that checks if "Alarm_1" is "off" then checks if "POWER" is "on". Answering with "Danger! Can not turn on." or "Power is off." based on what check failed.
 #Crie um código que verifique se "Alarme_1" está "desligado" e então verifica se "ALIMENTACAO" está "ligada", apresentando "Perigo, Não é possível ligar" ou "Alimentação desligada" caso cada das verificações falhe.
+
+#7)
+#
+#
