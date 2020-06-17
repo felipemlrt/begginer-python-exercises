@@ -5,5 +5,5 @@
 #Crie uma função que receva um oprador ( + - * or / ), valores X e Y, e calcule o resultando apresentando este ao usuário.
 
 #2)
-#
+#Create a function that tell if a number is odd or even.
 #
