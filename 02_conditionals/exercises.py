@@ -25,5 +25,5 @@
 #Crie um código que verifique se "Alarme_1" está "desligado" e então verifica se "ALIMENTACAO" está "ligada", apresentando "Perigo, Não é possível ligar" ou "Alimentação desligada" caso cada das verificações falhe.
 
 #7)
-#
+#Create a menu that presents 4 options (1- Start, 2- Multiplayer, 3- Options, 4- Quit) and prints the chosen option.
 #
