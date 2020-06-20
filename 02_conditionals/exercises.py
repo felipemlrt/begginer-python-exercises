@@ -27,3 +27,7 @@
 #7)
 #Create a menu that presents 4 options (1- Start, 2- Multiplayer, 3- Options, 4- Quit) and prints the chosen option.
 #
+
+#8)
+#Create a if that prints "Yay!" if x is equal to 1,25. Test results with 1,0 1,25 1,20 1,30.
+#
