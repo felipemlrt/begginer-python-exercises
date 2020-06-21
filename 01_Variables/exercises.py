@@ -23,3 +23,7 @@
 #6)
 #Create a code that ask the user for the name of an object and stores it in a list of objects.
 #Crie um código que pede para o usuário o nome de um objeto e o guarda em uma lista de objetos.
+
+#7)
+#
+#
