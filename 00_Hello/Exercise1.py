@@ -29,5 +29,5 @@
 #Crie um codigo que apresente uma frase em partes separada por "+".
 
 #8)
-#
+#Create a code that prints "1 + 1", and not the answer.
 #
