@@ -9,5 +9,5 @@
 #
 
 #3)
-#Create a function that receives a memory size in Bytes and converts it to Giga Bytes and prints the result.
+#Create a function that receives a memory size in Bytes, converts it to Giga Bytes then prints the resulting size in GB.
 #
