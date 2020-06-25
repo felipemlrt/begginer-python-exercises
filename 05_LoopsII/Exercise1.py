@@ -5,5 +5,5 @@
 #Crie um código que apresenta "Parabéns!" caso o usuário insira em sequência os números 1, 2, 3, e 4.
 
 #2)
-#
+#Create a code that asks for names in sequence, as the user inputs them the whole list is printed.
 #
