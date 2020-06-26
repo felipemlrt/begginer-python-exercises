@@ -25,5 +25,5 @@
 #Crie um if de linha única que verifique se um valor X é texto ou número e apresente "X deve ser número!" caso seja texto.
 
 #7)
-#
+#Create a single line if that will receive from the user the status 0(off), 1(on), of alarms A and B, and prints "All OK!" if both are off.
 #
