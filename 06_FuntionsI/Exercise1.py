@@ -6,7 +6,7 @@
 
 #2)
 #Create a function that tell if a number is odd or even.
-#
+#Crie uma função que retorne se um número é par ou ímpar.
 
 #3)
 #Create a function that receives a memory size in Bytes, converts it to Giga Bytes then prints the resulting size in GB.
