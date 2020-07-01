@@ -31,3 +31,11 @@
 #8)
 #Create a code that prints "1 + 1", and not the answer.
 #Crie um código que apresente "1 + 1", e não o resultado da operação.
+
+#9)
+#
+#
+
+#10)
+#
+#
