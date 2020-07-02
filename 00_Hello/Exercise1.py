@@ -33,7 +33,7 @@
 #Crie um código que apresente "1 + 1", e não o resultado da operação.
 
 #9)
-#
+#Create a python code that prints an ID number, a dash and a name. Final result example "10 - John Smith".
 #
 
 #10)
