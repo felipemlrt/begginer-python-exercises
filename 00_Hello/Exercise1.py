@@ -34,7 +34,7 @@
 
 #9)
 #Create a python code that prints an ID number, a dash and a name. Final result example "10 - John Smith".
-#
+#Crie um código python que apresente um identificador, traço e nome. Exemplo do resultado "10 - João Silva".
 
 #10)
 #Create a code that prints a menu. Example: "1- Read data, 2- Write data, 3- Delete data, 4- options, 5- quit"
