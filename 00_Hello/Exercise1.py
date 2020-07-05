@@ -37,5 +37,5 @@
 #Crie um código python que apresente um identificador, traço e nome. Exemplo do resultado "10 - João Silva".
 
 #10)
-#Create a code that prints a menu. Example: "1- Read data, 2- Write data, 3- Delete data, 4- options, 5- quit"
-#
+#Create a code that prints a menu. Example: "1- Read data, 2- Write data, 3- Delete data, 4- Options, 5- Quit"
+#Crie um código que apresenta um menu. Exemplo: "1- Ler dados, 2- Gravar dados, 3- Deletar, 4- Opções, 5- Encerrar"
