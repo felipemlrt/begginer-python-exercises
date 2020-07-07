@@ -27,3 +27,7 @@
 #7)
 #Create a pthon code that receives and prints a description of a item.
 #
+
+#8)
+#
+#
