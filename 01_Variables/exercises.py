@@ -25,8 +25,8 @@
 #Crie um código que pede para o usuário o nome de um objeto e o guarda em uma lista de objetos.
 
 #7)
-#Create a pthon code that receives and prints a description of a item.
-#
+#Create a python code that receives and prints a description of a item.
+#Crie um código python que receba e apresente a descrição de um item.
 
 #8)
 #
