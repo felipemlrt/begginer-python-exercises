@@ -29,5 +29,5 @@
 #Crie um código python que receba e apresente a descrição de um item.
 
 #8)
-#
+#Create a python code that receives and prints, a item name, its price and description.
 #
