@@ -33,7 +33,7 @@
 #
 
 #9)
-#
+#Create a python code that prints a car model, color and description.
 #
 
 #10)
