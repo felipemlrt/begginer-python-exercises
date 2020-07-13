@@ -37,5 +37,5 @@
 #
 
 #10)
-#
+#Create a python code that receives data regarding a facoty, produtc, output, cost and description.
 #
