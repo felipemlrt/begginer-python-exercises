@@ -30,7 +30,7 @@
 
 #8)
 #Create a python code that receives and prints, a item name, its price and description.
-#
+#Crie um código python que receba e apresente, o nome de um item, seu preço e descrição.
 
 #9)
 #Create a python code that prints a car model, color and description.
