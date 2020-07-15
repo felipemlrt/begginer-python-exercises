@@ -34,7 +34,7 @@
 
 #9)
 #Create a python code that prints a car model, color and description.
-#
+#Crie um código python que apresente o modelo, cor e descrição de um carro.
 
 #10)
 #Create a python code that receives data regarding a facoty, produtc, output, cost and description.
