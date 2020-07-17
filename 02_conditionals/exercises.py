@@ -31,3 +31,11 @@
 #8)
 #Create a if that prints "Yay!" if x is equal to 1,25. Test results with 1,0 1,25 1,20 1,30.
 #
+
+#9)
+#
+#
+
+#10)
+#
+#
