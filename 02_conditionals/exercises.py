@@ -33,7 +33,7 @@
 #
 
 #9)
-#
+#Create a code that if receives a, b and c in sequence prints "Correct sequence entered!".
 #
 
 #10)
