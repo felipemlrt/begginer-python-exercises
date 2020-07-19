@@ -37,5 +37,5 @@
 #
 
 #10)
-#
+#Create a code that for each number from 0 to 9, answers with the compliment needed for it to get to 10.For example, for 1 answer is 9, for 5 answer is 5 and for 8 answer is 2.
 #
