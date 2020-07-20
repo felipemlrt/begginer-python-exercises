@@ -29,8 +29,8 @@
 #Crie um menu que apresente 4 opções (1- Inicio, 2- Multiplayer, 3- Opções, 4- Fim) e apresenta a opção selecionada.
 
 #8)
-#Create a if that prints "Yay!" if x is equal to 1,25. Test results with 1,0 1,25 1,20 1,30.
-#
+#Create a if that prints "Correct!" if x is equal to 1,25. Test results with 1,0 1,25 1,20 1,30.
+#Crie um if que apresenta "Certo!", se um dado x for igual a 1,25. Teste os resultados com 1,0 1,25 1,20 1,30.
 
 #9)
 #Create a code that if receives a, b and c in sequence prints "Correct sequence entered!".
