@@ -27,3 +27,15 @@
 #7)
 #Create a single line if that will receive from the user the status 0(off), 1(on), of alarms A and B, and prints "All OK!" if both are off.
 #
+
+#8)
+#
+#
+
+#9)
+#
+#
+
+#10)
+#
+#
