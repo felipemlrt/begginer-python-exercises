@@ -29,7 +29,7 @@
 #
 
 #8)
-#
+#Create a code in python that prints 3 different messages based on what number the user inputs. 0 to 10 prints "Test 1", 11 to 20 prints "Test 2", above 20 prints "test 3".
 #
 
 #9)
