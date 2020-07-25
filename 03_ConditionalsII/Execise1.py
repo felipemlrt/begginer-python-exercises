@@ -33,7 +33,7 @@
 #
 
 #9)
-#
+#Create a code that print the position of a given letter in the alphabet. Example: a results in 1, b 2, c 3, ...
 #
 
 #10)
