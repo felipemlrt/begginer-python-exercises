@@ -30,7 +30,7 @@
 
 #8)
 #Create a code in python that prints 3 different messages based on what number the user inputs. 0 to 10 prints "Test 1", 11 to 20 prints "Test 2", above 20 prints "test 3".
-#
+#Crie um código em python que apresente 3 diferentes mensagens baseado na entrada do usuário. 0 a 10 apresenta "Test 1", 11 a 20 apresenta "Test 2", acima 20 apresenta "test 3".
 
 #9)
 #Create a code that print the position of a given letter in the alphabet. Example: a results in 1, b 2, c 3, ...
