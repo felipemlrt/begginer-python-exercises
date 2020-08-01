@@ -34,7 +34,7 @@
 
 #9)
 #Create a code that print the position of a given letter in the alphabet. Example: a results in 1, b 2, c 3, ...
-#
+#Crie um código que apresente a posição de uma dada letra no alfabeto. Exemplo: para a 1, b 2, c 3, ...
 
 #10)
 #
