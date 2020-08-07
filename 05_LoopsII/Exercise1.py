@@ -6,4 +6,4 @@
 
 #2)
 #Create a code that asks for names in sequence, as the user inputs them the whole list is printed.
-#
+#Crie um código que pede nomes em sequencia, e apresenta a lista completa conforme o usuário digita.
