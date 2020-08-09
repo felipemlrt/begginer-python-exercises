@@ -13,7 +13,7 @@
 #
 
 #4)
-#
+#Create a function that receives a series of prices and prints the subtotal after each one is given.
 #
 
 #5)
