@@ -17,7 +17,7 @@
 #
 
 #5)
-#
+#Create a function that prints a given x number x times. Example: print 5, 5 times, 3, 3 times, 9, 9 times and so on.
 #
 
 #6)
