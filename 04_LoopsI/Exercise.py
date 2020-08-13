@@ -30,7 +30,7 @@
 #Crie um código que recebe um número do usuário e apresenta a sequência de Fibonacci até aquela casa.
 
 #8)
-#
+#Create a endless loop that prints a counter.
 #
 
 #9)
