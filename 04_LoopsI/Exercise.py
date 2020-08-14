@@ -34,7 +34,7 @@
 #
 
 #9)
-#
+#Create a regressive counter, from a x number given by the user to 0, stopping at 0.
 #
 
 #10)
