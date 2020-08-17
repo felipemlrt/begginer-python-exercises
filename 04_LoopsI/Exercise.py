@@ -38,5 +38,5 @@
 #
 
 #10)
-#
+#Create a loop that prints a random name for a given list.
 #
