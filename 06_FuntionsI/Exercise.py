@@ -21,7 +21,7 @@
 #
 
 #6)
-#
+#Create a function that generate a random number.
 #
 
 #7)
