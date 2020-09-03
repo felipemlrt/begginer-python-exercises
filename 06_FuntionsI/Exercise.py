@@ -25,7 +25,7 @@
 #
 
 #7)
-#
+#Create a function that calculates the area of a circle of a given r radius.
 #
 
 #8)
