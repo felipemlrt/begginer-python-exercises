@@ -29,7 +29,7 @@
 #
 
 #8)
-#
+#Create a function that converts a time in hours, minutes, seconds to a total in miliseconds. Tip 1h = 60m, 1m = 60s, 1s = 1000ms.
 #
 
 #9)
