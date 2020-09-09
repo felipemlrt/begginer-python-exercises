@@ -33,7 +33,7 @@
 #
 
 #9)
-#
+#Create a function that receives a list of names and compares it to another list printing those that are present in both.
 #
 
 #10)
