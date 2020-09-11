@@ -10,7 +10,7 @@
 
 #3)
 #Create a function that receives a memory size in Bytes, converts it to Giga Bytes then prints the resulting size in GB.
-#
+#Crie uma funço que receba um tamanho de memória em Bytes e o converta no equivalente em Giga Bytes apresentando o resultado.
 
 #4)
 #Create a function that receives a series of prices and prints the subtotal after each one is given.
