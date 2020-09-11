@@ -9,7 +9,7 @@
 #Crie uma função que retorne se um número é par ou ímpar.
 
 #3)
-#Create a function that receives a memory size in Bytes, converts it to Giga Bytes then prints the resulting size in GB.
+#Create a function that receives a memory size in Bytes, converts it to Giga Bytes then prints the resulting size in GB. Example 1024MB = 1GB. Use binary not decimal.
 #Crie uma funço que receba um tamanho de memória em Bytes e o converta no equivalente em Giga Bytes apresentando o resultado.
 
 #4)
