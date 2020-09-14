@@ -37,5 +37,5 @@
 #
 
 #10)
-#
+#Create a function that counts seconds.
 #
