@@ -14,7 +14,7 @@
 
 #4)
 #Create a function that receives a series of prices and prints the subtotal after each one is given.
-#
+#Crie uma função que receba uma serie de preços e apresente o subtotal apos cada novo item inserido.
 
 #5)
 #Create a function that prints a given x number x times. Example: print 5, 5 times, 3, 3 times, 9, 9 times and so on.
