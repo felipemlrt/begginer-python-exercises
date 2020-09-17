@@ -37,5 +37,5 @@
 #
 
 #10)
-#Create a function that counts seconds.
+#Create a function that counts seconds. Use a chronometer to compare with your code.
 #
