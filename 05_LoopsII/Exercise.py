@@ -9,7 +9,7 @@
 #Crie um código que pede nomes em sequencia, e apresenta a lista completa conforme o usuário digita.
 
 #3)
-#
+#Create a code that from a given elemnt symbol in the periodic table returns this element information.
 #
 
 #4)
