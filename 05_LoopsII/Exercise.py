@@ -13,7 +13,7 @@
 #
 
 #4)
-#
+#Create a code that fills a matrix and calculates its inverse.
 #
 
 #5)
