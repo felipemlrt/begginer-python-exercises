@@ -17,5 +17,5 @@
 #
 
 #5)
-#
+#Create a code that receives 2 arrays, multiplies them each element by the correspondent and sums the total.
 #
