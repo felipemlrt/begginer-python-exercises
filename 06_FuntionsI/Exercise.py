@@ -18,7 +18,7 @@
 
 #5)
 #Create a function that prints a given x number x times. Example: print 5, 5 times, 3, 3 times, 9, 9 times and so on.
-#
+#Crie uma função que apresente um núemro x, x vezes. Exemplo: apresentar 5, 5 vezes, 3, 3 vezes e assim por diante
 
 #6)
 #Create a function that generate a random number.
