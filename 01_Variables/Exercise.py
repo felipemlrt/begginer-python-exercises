@@ -5,8 +5,8 @@
 #Crie uma série de variáveis contendo seu nome e idade.
 
 #2)
-#Create a variable that receives the number 1,25.
-#Crie uma váriavel que receba o número 1,25.
+#Create a variable that receives the number 1,25 and prints it.
+#Crie uma váriavel que receba o número 1,25 e apresente este.
 
 #3)
 #Create two variables that will receive 5 and 8, then a third that receives the sum of these.
