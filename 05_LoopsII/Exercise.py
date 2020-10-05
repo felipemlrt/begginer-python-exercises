@@ -23,3 +23,7 @@
 #6)
 #Create a code that receives 2 numbers then solves a to power b. Ex: 5², 3³, ...
 #
+
+#7)
+#
+#
