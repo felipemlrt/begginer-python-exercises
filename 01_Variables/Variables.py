@@ -3,6 +3,21 @@
 #Remenber that in python there is no need to assign a type to a variable!
 #Lembre-se que em python nao ha a necessidade de declarar um tipo para a variavel!
 
+#Remember python variable's name must start with letters or undercsore only, and cannot contain special character than underscore (A-z, 0-9, and _ )
+#Python variables are case sensitive(CASIO,casio are two different varibles)
+#Legal variable names:
+myvar = "John"
+my_var = "John"
+_my_var = "John"
+myVar = "John"
+MYVAR = "John"
+myvar2 = "John"
+
+#Illegal variable names:
+2myvar = "John"
+my-var = "John"
+my var = "John"
+
 #----------------------------------------------------------------------------------------------------
 #english:
 name = "John"
@@ -59,3 +74,7 @@ a = 1.25
 print (a)
 
 #----------------------------------------------------------------------------------------------------
+#Variables type can be changed even after they have been set
+x = 4           # x is of type int
+x = "Casio"     # x is now of type str
+print(x)
