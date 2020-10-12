@@ -38,4 +38,4 @@
 
 #10)
 #Create a function that counts seconds. Use a chronometer to compare with your code.
-#
+#Crie uma função que conte segundos. Use um cronometro para comparar com o seu código.
