@@ -39,4 +39,4 @@
 
 #10)
 #Create a loop that prints a random name for a given list.
-#
+#Crie uma estrutura de repetição que apresente um nome aleatório de uma lista dada.
