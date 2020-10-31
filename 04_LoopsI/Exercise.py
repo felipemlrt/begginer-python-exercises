@@ -31,7 +31,7 @@
 
 #8)
 #Create a endless loop that prints a counter.
-#
+#Crie uma estrutura de repetição infinita que apresente uma contagem.
 
 #9)
 #Create a regressive counter, from a x number given by the user to 0, stopping at 0.
