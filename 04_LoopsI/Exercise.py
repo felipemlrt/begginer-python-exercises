@@ -35,7 +35,7 @@
 
 #9)
 #Create a regressive counter, from a x number given by the user to 0, stopping at 0.
-#
+#Crie um contador regressivo, de um dado x, apresentando e reduzindo até chegar a 0.
 
 #10)
 #Create a loop that prints a random name for a given list.
