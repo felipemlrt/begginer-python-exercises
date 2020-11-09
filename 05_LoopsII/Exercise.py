@@ -25,7 +25,7 @@
 #
 
 #7)
-#
+#Create a code that counts for how many seconds as key is pressed.
 #
 
 #8)
