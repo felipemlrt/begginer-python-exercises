@@ -10,7 +10,7 @@
 
 #3)
 #Create a code that from a given elemnt symbol in the periodic table returns this element information.
-#
+#Crie um codigo que dado o simbolo de um elemento da tabela periodica, este retorne o elemento correspondente e suas informações.
 
 #4)
 #Create a code that fills a matrix and calculates its inverse.
