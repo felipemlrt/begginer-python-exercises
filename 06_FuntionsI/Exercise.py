@@ -39,3 +39,7 @@
 #10)
 #Create a function that counts seconds. Use a chronometer to compare with your code.
 #Crie uma função que conte segundos. Use um cronometro para comparar com o seu código.
+
+#11)
+#Create a function that receives a data and a number, then calculates what day will be the date + the number given days.
+#
