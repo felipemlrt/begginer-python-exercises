@@ -26,7 +26,7 @@
 
 #7)
 #Create a code that counts for how many seconds as key is pressed.
-#
+#Crie um código que conte por quantos segundos uma tecla é pressionada.
 
 #8)
 #
