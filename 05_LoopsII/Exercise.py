@@ -22,7 +22,7 @@
 
 #6)
 #Create a code that receives 2 numbers then solves a to power b. Ex: 5², 3³, ...
-#
+#Crie um código que receba 2 numeros e resolva a potencia do primeiro ao segundo. Ex: 5², 3³, ...
 
 #7)
 #Create a code that counts for how many seconds as key is pressed.
