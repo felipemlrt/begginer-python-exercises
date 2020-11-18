@@ -22,7 +22,7 @@
 
 #6)
 #Create a function that generate a random number.
-#
+#Crie uma função que gere um numero randonico.
 
 #7)
 #Create a function that calculates the area of a circle of a given r radius.
