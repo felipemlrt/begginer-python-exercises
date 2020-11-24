@@ -68,8 +68,8 @@ print("Bem vindo " + pergunta_nome())
 #----------------------------------------------------------------------------------------------------
 #lambda functions are simple single line functions
 #funções lambda são simples, definidas em uma unica linha
-x = lambda a, b, c: (a * b)/c
+func_x = lambda a, b, c: (a * b)/c
 
-print(x(5,10,5))
+print(func_x(5,10,5))
 
 #----------------------------------------------------------------------------------------------------
