@@ -5,11 +5,11 @@
 
 #----------------------------------------------------------------------------------------------------
 #english:
-#Remember python variable's name must start with letters or undercsore only, and cannot contain special character than underscore (A-z, 0-9, and _ )
-#Python variables are case sensitive(CASIO,casio are two different varibles)
+#In python variable's names can only start with letters or undercsore, and cannot contain special characters other than underscore. So A-z, 0-9, and _ can be used.
+#Python variables are case sensitive, that means Casio and casio are two different variables.
 #Legal (can be used) variable names:
 myvar = "John"
-my_var = "John"
+my_var = "John" #In python this naming style is favored, try to use it. Examples: my_name, age_of_mom, car_color, and so on.
 _my_var = "John"
 myVar = "John"
 MYVAR = "John"
