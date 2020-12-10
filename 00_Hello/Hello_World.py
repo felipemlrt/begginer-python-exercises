@@ -34,8 +34,12 @@ print(5 * 10)
 #It is possible to print the result of simple equations directly, as in the example above
 #É possível apresentar diretamente o resultado de equações simples, como no exemplo acima
 
+print(1.25)
+
+#Para apresentar valores decimais o . e nao a , deve ser usado como separador decimal  
+
 print(i*10)
 #it prints character 'i' for ten times in a row      
-      
+
 #ATTENTION: in python2 divisions will of integers will result in integers "wrong" if a float value is desired, in pytho3 this is not a problem
 #ATENÇÃO: no python2 divisao de numeros int dão resultados "errados" caso um float seja desejado, no python3 isto não é mais um problema
