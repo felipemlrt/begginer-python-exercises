@@ -15,3 +15,11 @@ while resposta != "nao":
  resposta = input(" Quer continuar?")
  
 #------------------------------------------------------------------------
+#english
+answer = "yes"
+while answer != "no":
+ pass #pass will make the program ignore this loop, this is used to leave the loop in place and develop it later without causing errors
+ 
+#portugues
+
+#------------------------------------------------------------------------
