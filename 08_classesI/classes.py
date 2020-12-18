@@ -8,3 +8,6 @@ class class_name:# This create a class named <class_name>
   
   def multiply(x, y):#A class can cotain multiple functions
     return x * y;
+
+if __name__ == "__main__": #This is used so that the code below will only run if this file is run dictly, if this class is imported to another project it will not be run
+  ###
