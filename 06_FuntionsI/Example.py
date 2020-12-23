@@ -4,8 +4,9 @@ def sum_all(list_of_numbers):
   total = total + list_of_numbers[number]
  return total
 
-def test_value(value, test_value):
- if value == test_value:
-  return True
- else:
-  return False
+ def login(user_login, user_password):
+  login, password = 'John', 'Pa55Word'
+  if user_login == login and user_password == password:
+   return True
+  else:
+   return False
