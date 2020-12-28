@@ -5,7 +5,8 @@
 
 #----------------------------------------------------------------------------------------------------
 #english:
-#In python variable's names can only start with letters or undercsore, and cannot contain special characters other than underscore. So A-z, 0-9, and _ can be used.
+#In python variable's names can only start with letters or undercsore, and cannot contain special characters other than underscore. 
+#So A-z, 0-9, and _ can be used in the name, and the first character may be A-z, and _.
 #Python variables are case sensitive, that means Casio and casio are two different variables.
 #Legal (can be used) variable names:
 myvar = "John"
@@ -14,13 +15,15 @@ _my_var = "John"
 myVar = "John"
 MYVAR = "John"
 myvar2 = "John"
-
 #Illegal (can not be used) variable names:
 2myvar = "John"
 my-var = "John"
 my var = "John"
 
 #portugues:
+#Na linguagem python variáveis somente podem iniciar com letras ou _ e não podem conter outros caracteres especiais. 
+#Assim A-z, 0-9, e _ podem ser usados no nome, o primieiro caractere pode ser A-z, e _.
+#Python variables are case sensitive, that means Casio and casio are two different variables.
 
 #----------------------------------------------------------------------------------------------------
 #english:
