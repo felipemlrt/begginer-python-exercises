@@ -17,7 +17,7 @@
 #Crie um codigo que receba uma matriz e calcule sua inversa.
 
 #5)
-#Create a code that receives 2 arrays, multiplies them each element by the correspondent and sums the total.
+#Create a code that receives 2 lists, multiplies them each element by the correspondent and sums the total.
 #
 
 #6)
