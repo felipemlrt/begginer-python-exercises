@@ -7,6 +7,8 @@ def sum_all(list_of_numbers):
  return total
 
  def login(user_login, user_password):
+  """For example only! Do not use for real appplication, this is not secure enough.
+  """
   login, password = 'John', 'Pa55Word'
   if user_login == login and user_password == password:
    return True
