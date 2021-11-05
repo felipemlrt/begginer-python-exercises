@@ -85,3 +85,13 @@ print (a)
 x = 4           # x is of type int
 x = "Casio"     # x is now of type str
 print(x)
+
+#----------------------------------------------------------------------------------------------------
+#There are many ways to use the values, use the one most apropriadted for your problem anda that you are more confortable with
+name = input("What is your name?")
+print("Hi", name)
+print(f"Hi {name}")
+print("Hi {}".format(name))
+print("Hi %s" % name)
+greeting = "Hi " + name
+print(greeting)
