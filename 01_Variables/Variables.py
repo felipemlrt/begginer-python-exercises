@@ -87,7 +87,8 @@ x = "Casio"     # x is now of type str
 print(x)
 
 #----------------------------------------------------------------------------------------------------
-#There are many ways to use the values, use the one most apropriadted for your problem anda that you are more confortable with
+#There are many ways to use the values of variables, use the one most apropriadted for your problem anda that you are more confortable with
+#Following are examples of many ways in wich the same task can be acomplished
 name = input("What is your name?")
 print("Hi", name)
 print(f"Hi {name}")
