@@ -88,7 +88,7 @@ print(x)
 
 #----------------------------------------------------------------------------------------------------
 #There are many ways to use the values of variables, use the one most apropriadted for your problem anda that you are more confortable with
-#Following are examples of many ways in wich the same task can be acomplished
+#Following are examples of many ways in wich the same task, presenting "Hi <name_of_user>", can be acomplished
 name = input("What is your name?")
 print("Hi", name)
 print(f"Hi {name}")
