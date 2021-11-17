@@ -3,7 +3,7 @@
 #Classes make code easier to organize, reference and re use.
 #Classes tornam o codigo mais facil de organizar, referenciar e re-usar.
 
-#In python classes are simply to create
+#In python classes are simple to create
 class class_name:# This create a class named <class_name>
   def sum(x, y):#This creates a function called sum that is contained on class_name
     return x + y
