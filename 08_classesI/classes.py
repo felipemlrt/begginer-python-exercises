@@ -7,6 +7,7 @@
 class class_name:# This create a class named <class_name> # a
   
   atribute = 1 #example of the creation of an atribute
+  other_atribute = "This is an atribute" #example of a string atribute
   
   def sum(x, y):#This creates a function called sum that is contained on class_name
     return x + y
