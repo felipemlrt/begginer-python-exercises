@@ -8,6 +8,7 @@ class class_name:# This create a class named <class_name> # a
   
   atribute = 1 #example of the creation of an atribute
   other_atribute = "This is an atribute" #example of a string atribute
+  yet_another = None #example of a None value atribute, be mindfull there is a difference between a atribute nor existing and it being None
   
   def __init__():
     pass
