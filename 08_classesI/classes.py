@@ -1,5 +1,5 @@
 #A class in pythons is a collection of methods(functions that belong to a class) and attributes (variables) all related to a certain concept, object, functionality, etc.
-#Em python uma classe é uma coleção de funções e variaveis relacionadas a um certo conceito, objeto, funcionalidade, etc.
+#Em python uma classe é uma coleção de métodos(funções) e atributos(variaveis) relacionadas a um certo conceito, objeto, funcionalidade, etc.
 #Classes make code easier to organize, reference and re use.
 #Classes tornam o codigo mais facil de organizar, referenciar e re-usar.
 
